@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "groceries-b4a7b",
+    "staging": "groceries-b4a7b"
+  }
+}
